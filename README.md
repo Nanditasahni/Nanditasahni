@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Nandita Sahni
 
-<!--
-**Nanditasahni/Nanditasahni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech student in Information Technology at Noida Institute of Engineering and Technology (NIET), currently in my first year.
 
-Here are some ideas to get you started:
+💻 I have a foundation in:
+- C Programming
+- Python
+- Basic problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently exploring:
+- Data Structures and Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+
+📚 I’m passionate about learning new technologies and building my skills in software development.
+
+🚀 I'm open to collaborating on beginner-friendly projects, coding challenges, and learning groups.
+
+📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) *(Replace with your actual LinkedIn URL)*
+- [Email](mailto:YOUR-EMAIL@example.com) *(Optional)*
+
+---
+
+⭐️ Let's grow and learn together!
