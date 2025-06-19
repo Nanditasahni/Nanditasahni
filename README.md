@@ -17,8 +17,8 @@
 🚀 I'm open to collaborating on beginner-friendly projects, coding challenges, and learning groups.
 
 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) *(Replace with your actual LinkedIn URL)*
-- [Email](mailto:YOUR-EMAIL@example.com) *(Optional)*
+- [LinkedIn](www.linkedin.com/in/nandita-sahni-002797370) *(Replace with your actual LinkedIn URL)*
+- [Email](nanditasahni74@gmail.com) *(Optional)*
 
 ---
 
